@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+
+# Node.js
+node_modules/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Compiled output
+dist/
+
+# Dependency folders
+@types/
+
+# Test files
+*.spec.ts
+
+# Coverage
+coverage/
+
+# Built files
+*.tsbuildinfo
+
+# Yarn
+yarn.lock
+
+# npm
+package-lock.json
