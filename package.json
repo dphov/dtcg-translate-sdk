@@ -4,8 +4,8 @@
   "license": "MPL-2.0",
   "version": "1.0.0",
   "description": "SDK to translate DTCG to custom format",
-  "main": "lib/main.js",
-  "types": "lib/main.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/types/index.d.ts",
   "files": [
     "/lib"
   ],

@@ -11,7 +11,7 @@ node_modules/
 *.d.ts
 
 # Compiled output
-dist/
+lib/
 
 # Dependency folders
 @types/
